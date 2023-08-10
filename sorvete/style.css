@@ -1,0 +1,53 @@
+.logo img {
+    border-radius: 10px;
+}
+
+
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+
+.container {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+
+
+.container h2 {
+    color: #d28bb5;
+    
+}
+
+.container button{
+    background-color: #b567ac;
+    border-radius: 10px;
+    border: #b567ac;
+    padding: 10px 75px;
+    color: #ffff;
+}
+
+
+
+.contato  {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    gap: 20px;
+}
+
+
+
+
+
+

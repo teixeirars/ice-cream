@@ -1,0 +1,27 @@
+@media (max-width: 768px) {
+
+    .logo img {
+        width: 255px;
+    }
+
+    .sorvetes {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .acai {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .opcoes {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+}
